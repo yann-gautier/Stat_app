@@ -10,7 +10,7 @@ Projet d'analyse causale explorant l'impact de la vaccination COVID-19 sur la su
 
 ```powershell
 python -m pip install uv
-python covid_training/src/MAKE_env.py
+python MAKE_env.py
 ``
 
 ### 2. Activer l'environnement

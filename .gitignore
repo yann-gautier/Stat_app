@@ -1,3 +1,5 @@
-ENSAE_docs/*
+ENSAE_docs/
 code/
 .DAG_env/
+infos/
+data/
