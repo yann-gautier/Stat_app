@@ -13,6 +13,7 @@ dependencies = [
     "lifelines>=0.30.0",
     "statsmodels>=0.14.0",
     "openpyxl>=3.1.0",
+    "bnlearn>=0.12.2",
 ]
 
 [tool.uv]
